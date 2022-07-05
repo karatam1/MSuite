@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 25.0.1700.5
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCircle", "MCircle\MCircle.csproj", "{D3CC4F1F-6CCD-4C0F-A961-ED46DF9586EE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCircle", "MCircle\MCircle.csproj", "{4175FB42-B40A-4D60-915B-CC97BEB0D2D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D3CC4F1F-6CCD-4C0F-A961-ED46DF9586EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D3CC4F1F-6CCD-4C0F-A961-ED46DF9586EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D3CC4F1F-6CCD-4C0F-A961-ED46DF9586EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D3CC4F1F-6CCD-4C0F-A961-ED46DF9586EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4175FB42-B40A-4D60-915B-CC97BEB0D2D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4175FB42-B40A-4D60-915B-CC97BEB0D2D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4175FB42-B40A-4D60-915B-CC97BEB0D2D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4175FB42-B40A-4D60-915B-CC97BEB0D2D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F55238A7-BB11-42CC-AA75-8FC5ACEBAFAE}
+		SolutionGuid = {D12FA098-4CCC-4832-944E-1DF45565D69D}
 	EndGlobalSection
 EndGlobal
